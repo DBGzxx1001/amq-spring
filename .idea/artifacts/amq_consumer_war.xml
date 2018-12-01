@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="amq-consumer:war">
+    <output-path>$PROJECT_DIR$/amq-consumer/target</output-path>
+    <root id="archive" name="amq-consumer.war">
+      <element id="artifact" artifact-name="amq-consumer:war exploded" />
+    </root>
+  </artifact>
+</component>
